@@ -1,0 +1,12 @@
+com\medcloud\pacient\repository\AddressRepository.class
+com\medcloud\pacient\controller\PacientController.class
+com\medcloud\pacient\model\Address.class
+com\medcloud\pacient\model\Pacient.class
+com\medcloud\config\service\CustomUserDetails.class
+com\medcloud\admin\model\Admin.class
+com\medcloud\admin\repository\AdminRepository.class
+com\medcloud\pacient\repository\PacienteRepository.class
+com\medcloud\pacient\service\PacientService.class
+com\medcloud\config\SecurityConfig.class
+com\medcloud\MedCloud.class
+com\medcloud\config\service\CustomUserDetailsService.class
